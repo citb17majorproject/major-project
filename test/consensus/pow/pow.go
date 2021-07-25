@@ -3,10 +3,10 @@ package pow
 import (
 	"encoding/json"
 
-	"github.com/newham/goblockchain/core"
+	"github.com/citb17majorproject/blockchain/core"
 
 	mqtt "github.com/eclipse/paho.mqtt.golang"
-	"github.com/newham/fabric-iot/test/consensus/kafka"
+	"github.com/citb17majorproject/major-project/test/consensus/kafka"
 )
 
 const (
