@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/newham/goblockchain/core"
+	"github.com/citb17majorproject/blockchain/core"
 )
 
 func TestPoW(t *testing.T) {
