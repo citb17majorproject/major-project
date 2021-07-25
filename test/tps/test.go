@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/newham/hamtask"
+	"github.com/citb17majorproject/task"
 )
 
 var BASE_URL = "http://localhost:8001/fabric-iot/test"
